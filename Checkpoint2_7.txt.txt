@@ -1,0 +1,15 @@
+Which git command would you use to:
+
+View the history of the repository : 
+
+git log
+
+
+If there are outstanding commits to do :
+ 
+git commit . -m "New exemple commit"
+
+
+Start a new repository : 
+
+git init
